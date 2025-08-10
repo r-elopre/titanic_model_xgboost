@@ -1,4 +1,11 @@
 # Titanic Survival Prediction Model with XGBoost
+<p align="center">
+  <a href="https://youtu.be/feOO7DOKnqQ?si=rFT9jCzVhsqnGJS8">
+    <img src="https://img.youtube.com/vi/feOO7DOKnqQ/maxresdefault.jpg" alt="Titanic XGBoost Model Video">
+  </a>
+  <br/>
+  <em>Click the thumbnail to watch on YouTube</em>
+</p>
 
 This repository contains Python scripts that build and evaluate XGBoost classifiers to predict passenger survival on the Titanic, based on a preprocessed dataset. The project includes an original untuned model and an enhanced model optimized using GridSearchCV for hyperparameter tuning.
 
